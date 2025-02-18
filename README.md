@@ -58,7 +58,7 @@ Option 02: <br>
 
 <b>Important:</b>
 - After cloning the repository to your local machine, make sure that you have required permissions to open files in it, and to execute them, as required.
-- Make sure that "car_sale_usa.csv" file is available at the same level, as the Jupyter Notebook file in which you run these codes.
+- Make sure that "car_sale_usa.csv" file is available at the same folder level, as the Jupyter Notebook file in which you run these codes.
 
 ## Findings of the project
 
