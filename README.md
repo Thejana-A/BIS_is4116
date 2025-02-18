@@ -38,7 +38,7 @@
 - In "20020015_is4116.ipynb" file, in each cell excluding "#Loading data" cell, there is a comment as "#Analysis \*" (\* means any number from 1 to 15, where some of them have multiple parts as part_01, part_02 etc.). Those analysis numbers in "20020015_is4116.ipynb" file correspond to respective steps in "20020015.pdf" PDF document.<br>
 <b>Ex:</b> <br>
 > Number 01 in PDF document -> #Analysis 01 in "20020015_is4116.ipynb" <br>
-> Number 02 in PDF document -> #Analysis 03 in "20020015_is4116.ipynb" <br>
+> Number 02 in PDF document -> #Analysis 02 in "20020015_is4116.ipynb" <br>
 > Number 04 in PDF document -> #Analysis 04_part_01 and #Analysis 04_part_02 in "20020015_is4116.ipynb" <br>
 
 ## Steps to reproduce the project
