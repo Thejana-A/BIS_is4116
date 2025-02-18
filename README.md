@@ -4,21 +4,21 @@
 
 - Business domain associated with this analytical process is sale of cars in USA.
 - Business problem is identifying the factors that affected the prices of cars in USA, in 2024, to identify trends associated with prices of cars.
-- This data set of cars contains following attributes:
+- This data set of cars contains following attributes:<br>
     Brand (text): The brand or manufacturer of the car.<br>
-    	Ex: "Toyota", "Nissan"<br>
+    >	Ex: "Toyota", "Nissan"<br>
     Model (text): The specific model of the car.<br>
-    	Ex: "Premio", "Allion"<br>
+    >	Ex: "Premio", "Allion"<br>
     Mileage (numeric): The number of miles the car has been driven.<br>
-    	Ex: 102345, 247589<br>
+    >	Ex: 102345, 247589<br>
     Year (numeric): The manufacturing year of the car.<br>
-    	Ex: 2023, 2000<br>
+    >	Ex: 2023, 2000<br>
     Status (text): Indicates whether the car is new, used, or certified pre-owned.<br>
-    	Ex: "New", "Certified", "Used"<br>
+    >	Ex: "New", "Certified", "Used"<br>
     Dealer (text): Information about the dealer or seller offering the car.<br>
-    	Ex: "Streamline Auto Outlet", "Ray Chevrolet"<br>
+    >	Ex: "Streamline Auto Outlet", "Ray Chevrolet"<br>
     Price (numeric): The listed price of the car in USD.<br>
- 	    Ex: 25020, 33450<br>
+ 	>    Ex: 25020, 33450<br>
  	
 - Since data associated with cars are highly diversified, it is difficult to fill missing data with substitute values. Therefore, data points associated with missing data were totally removed. (Removed percentage of data from initial data set = 0.026%)
 - After pre-processing, 140956 data points were available for analysis.
@@ -41,9 +41,9 @@
 - In PDF report submitted to VLE ("20020015.pdf", which is not present in this repository), there are 15 steps in the analytical process, identified with numbers from 1 to 15. 
 - In "20020015_is4116.ipynb" file, in each cell excluding "#Loading data" cell, there is a comment as "#Analysis *" (* means any number from 1 to 15, where some of them have multiple parts as part_01, part_02 etc.). Those analysis numbers in "20020015_is4116.ipynb" correspond to respective steps in "20020015.pdf" PDF document.
 <b>Ex:</b> <br>
-> Number 01 in PDF document -> #Analysis 01 in "20020015_is4116.ipynb"
-> Number 02 in PDF document -> #Analysis 03 in "20020015_is4116.ipynb"
-> Number 04 in PDF document -> #Analysis 04_part_01 and #Analysis 04_part_02 in "20020015_is4116.ipynb"
+> Number 01 in PDF document -> #Analysis 01 in "20020015_is4116.ipynb" <br>
+> Number 02 in PDF document -> #Analysis 03 in "20020015_is4116.ipynb" <br>
+> Number 04 in PDF document -> #Analysis 04_part_01 and #Analysis 04_part_02 in "20020015_is4116.ipynb" <br>
 
 ## Steps to reproduce the project
 
