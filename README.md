@@ -7,7 +7,7 @@
 - This data set of cars contains following attributes:<br>
     
 <ul style="list-style-type: square;">
-  <li><strong>Brand</strong> (text): The brand or manufacturer of the car.<br>&bnsp;&nbsp;&bnsp;Ex: "Toyota", "Nissan"</li>
+  <li><strong>Brand</strong> (text): The brand or manufacturer of the car.<br>Ex: "Toyota", "Nissan"</li>
   <li><strong>Model</strong> (text): The specific model of the car.<br>Ex: "Premio", "Allion"</li>
   <li><strong>Mileage</strong> (numeric): The number of miles the car has been driven.<br>Ex: 102345, 247589</li>
   <li><strong>Year</strong> (numeric): The manufacturing year of the car.<br>Ex: 2023, 2000</li>
