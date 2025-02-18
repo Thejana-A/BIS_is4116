@@ -6,25 +6,25 @@
 - Business problem is identifying the factors that affected the prices of cars in USA, in 2024, to identify trends associated with prices of cars.
 - This data set of cars contains following attributes:<br>
     
-* **Brand** (text): The brand or manufacturer of the car.  
+*> **Brand** (text): The brand or manufacturer of the car.  
   Ex: "Toyota", "Nissan"
 
-* **Model** (text): The specific model of the car.  
+*> **Model** (text): The specific model of the car.  
   Ex: "Premio", "Allion"
 
-* **Mileage** (numeric): The number of miles the car has been driven.  
+*> **Mileage** (numeric): The number of miles the car has been driven.  
   Ex: 102345, 247589
 
-* **Year** (numeric): The manufacturing year of the car.  
+*> **Year** (numeric): The manufacturing year of the car.  
   Ex: 2023, 2000
 
-* **Status** (text): Indicates whether the car is new, used, or certified pre-owned.  
+*> **Status** (text): Indicates whether the car is new, used, or certified pre-owned.  
   Ex: "New", "Certified", "Used"
 
-* **Dealer** (text): Information about the dealer or seller offering the car.  
+*> **Dealer** (text): Information about the dealer or seller offering the car.  
   Ex: "Streamline Auto Outlet", "Ray Chevrolet"
 
-* **Price** (numeric): The listed price of the car in USD.  
+*> **Price** (numeric): The listed price of the car in USD.  
   Ex: 25020, 33450
 
  	
