@@ -7,13 +7,13 @@
 - This data set of cars contains following attributes:<br>
     
 <ul style="list-style-type: square;">
-  <li><strong>Brand</strong> (text): The brand or manufacturer of the car.<br>Ex: "Toyota", "Nissan"</li>
-  <li><strong>Model</strong> (text): The specific model of the car.<br>Ex: "Premio", "Allion"</li>
-  <li><strong>Mileage</strong> (numeric): The number of miles the car has been driven.<br>Ex: 102345, 247589</li>
-  <li><strong>Year</strong> (numeric): The manufacturing year of the car.<br>Ex: 2023, 2000</li>
-  <li><strong>Status</strong> (text): Indicates whether the car is new, used, or certified pre-owned.<br>Ex: "New", "Certified", "Used"</li>
-  <li><strong>Dealer</strong> (text): Information about the dealer or seller offering the car.<br>Ex: "Streamline Auto Outlet", "Ray Chevrolet"</li>
-  <li><strong>Price</strong> (numeric): The listed price of the car in USD.<br>Ex: 25020, 33450</li>
+  <li><strong>Brand</strong> (text): > The brand or manufacturer of the car.<br>Ex: "Toyota", "Nissan"</li>
+  <li><strong>Model</strong> (text): > The specific model of the car.<br>Ex: "Premio", "Allion"</li>
+  <li><strong>Mileage</strong> (numeric): > The number of miles the car has been driven.<br>Ex: 102345, 247589</li>
+  <li><strong>Year</strong> (numeric): > The manufacturing year of the car.<br>Ex: 2023, 2000</li>
+  <li><strong>Status</strong> (text): > Indicates whether the car is new, used, or certified pre-owned.<br>Ex: "New", "Certified", "Used"</li>
+  <li><strong>Dealer</strong> (text): > Information about the dealer or seller offering the car.<br>Ex: "Streamline Auto Outlet", "Ray Chevrolet"</li>
+  <li><strong>Price</strong> (numeric): > The listed price of the car in USD.<br>Ex: 25020, 33450</li>
 </ul>
  	
 - Since data associated with cars are highly diversified, it is difficult to fill missing data with substitute values. Therefore, data points associated with missing data were totally removed. (Removed percentage of data from initial data set = 0.026%)
