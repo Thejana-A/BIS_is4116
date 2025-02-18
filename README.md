@@ -51,8 +51,8 @@ Option 01: <br>
 
 Option 02: <br>
 1) Clone the repository to local machine <br>
-2) Navigate into "BIS_is4116" folder <br>
-3) Open Jupyter Notebook, and create a new Notebook. <br>
+2) Open Jupyter Notebook <br>
+3) Navigate into "BIS_is4116" folder, using Navigation within Jupyter Notebook, and create a new Notebook. <br>
 4) Copy python code blocks from "20020015_is4116.py" file, starting from "#Loading data" until "#Analysis 15_part_02", such that each code block resides in a cell in Jupyter Notebook. <br>
 5) Run each cell, starting from "#Loading data", until "#Analysis 15_part_02" <br>
 
