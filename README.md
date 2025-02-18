@@ -5,21 +5,21 @@
 - Business domain associated with this analytical process is sale of cars in USA.
 - Business problem is identifying the factors that affected the prices of cars in USA, in 2024, to identify trends associated with prices of cars.
 - This data set of cars contains following attributes:<br>
-    >
-    Brand (text): The brand or manufacturer of the car.<br>
-    >	Ex: "Toyota", "Nissan"<br>
-    Model (text): The specific model of the car.<br>
-    >	Ex: "Premio", "Allion"<br>
-    Mileage (numeric): The number of miles the car has been driven.<br>
-    >	Ex: 102345, 247589<br>
-    Year (numeric): The manufacturing year of the car.<br>
-    >	Ex: 2023, 2000<br>
-    Status (text): Indicates whether the car is new, used, or certified pre-owned.<br>
-    >	Ex: "New", "Certified", "Used"<br>
-    Dealer (text): Information about the dealer or seller offering the car.<br>
-    >	Ex: "Streamline Auto Outlet", "Ray Chevrolet"<br>
-    Price (numeric): The listed price of the car in USD.<br>
- 	>    Ex: 25020, 33450<br>
+    
+    >Brand (text): The brand or manufacturer of the car.<br>
+    >>	Ex: "Toyota", "Nissan"<br>
+    >Model (text): The specific model of the car.<br>
+    >>	Ex: "Premio", "Allion"<br>
+    >Mileage (numeric): The number of miles the car has been driven.<br>
+    >>	Ex: 102345, 247589<br>
+    >Year (numeric): The manufacturing year of the car.<br>
+    >>	Ex: 2023, 2000<br>
+    >Status (text): Indicates whether the car is new, used, or certified pre-owned.<br>
+    >>	Ex: "New", "Certified", "Used"<br>
+    >Dealer (text): Information about the dealer or seller offering the car.<br>
+    >>	Ex: "Streamline Auto Outlet", "Ray Chevrolet"<br>
+    >Price (numeric): The listed price of the car in USD.<br>
+ 	>>    Ex: 25020, 33450<br>
  	
 - Since data associated with cars are highly diversified, it is difficult to fill missing data with substitute values. Therefore, data points associated with missing data were totally removed. (Removed percentage of data from initial data set = 0.026%)
 - After pre-processing, 140956 data points were available for analysis.
