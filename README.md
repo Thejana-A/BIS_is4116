@@ -5,6 +5,7 @@
 - Business domain associated with this analytical process is sale of cars in USA.
 - Business problem is identifying the factors that affected the prices of cars in USA, in 2024, to identify trends associated with prices of cars.
 - This data set of cars contains following attributes:<br>
+    >
     Brand (text): The brand or manufacturer of the car.<br>
     >	Ex: "Toyota", "Nissan"<br>
     Model (text): The specific model of the car.<br>
@@ -39,7 +40,7 @@
 
 <b>Note:</b> 
 - In PDF report submitted to VLE ("20020015.pdf", which is not present in this repository), there are 15 steps in the analytical process, identified with numbers from 1 to 15. 
-- In "20020015_is4116.ipynb" file, in each cell excluding "#Loading data" cell, there is a comment as "#Analysis *" (* means any number from 1 to 15, where some of them have multiple parts as part_01, part_02 etc.). Those analysis numbers in "20020015_is4116.ipynb" correspond to respective steps in "20020015.pdf" PDF document.
+- In "20020015_is4116.ipynb" file, in each cell excluding "#Loading data" cell, there is a comment as "#Analysis *" (* means any number from 1 to 15, where some of them have multiple parts as part_01, part_02 etc.). Those analysis numbers in "20020015_is4116.ipynb" correspond to respective steps in "20020015.pdf" PDF document.<br>
 <b>Ex:</b> <br>
 > Number 01 in PDF document -> #Analysis 01 in "20020015_is4116.ipynb" <br>
 > Number 02 in PDF document -> #Analysis 03 in "20020015_is4116.ipynb" <br>
